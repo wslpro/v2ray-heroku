@@ -7,7 +7,6 @@
 **可以部署两个以上的应用，实现 [负载均衡](https://toutyrater.github.io/app/balance.html)，避免长时间大流量连接某一应用而判定为滥用。**
 
 ## 部署
-![Deploy](https://www.herokucdn.com/deploy/button.png)
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/wslpro/v2ray-heroku)
 
 ## ENV 设定
